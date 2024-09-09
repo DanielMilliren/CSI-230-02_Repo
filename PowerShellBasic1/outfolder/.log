@@ -1,0 +1,114 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowershellBasic1_script1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowershellBasic1_script1","System.Collections.Generic.List`1[System.String]",,"PowershellBasic1_script1.ps1","143","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script1.ps1",".ps1","9/9/2024 12:36:17 PM","9/9/2024 4:36:17 PM","9/9/2024 12:36:17 PM","9/9/2024 4:36:17 PM","9/9/2024 12:36:17 PM","9/9/2024 4:36:17 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script2.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowershellBasic1_script2.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script2.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowershellBasic1_script2","System.Collections.Generic.List`1[System.String]",,"PowershellBasic1_script2.ps1","150","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script2.ps1",".ps1","9/9/2024 12:51:12 PM","9/9/2024 4:51:12 PM","9/9/2024 12:51:12 PM","9/9/2024 4:51:12 PM","9/9/2024 12:51:12 PM","9/9/2024 4:51:12 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowerShellBasic1_script3.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowerShellBasic1_script3.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowerShellBasic1_script3.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowerShellBasic1_script3","System.Collections.Generic.List`1[System.String]",,"PowerShellBasic1_script3.ps1","83","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowerShellBasic1_script3.ps1",".ps1","9/9/2024 1:08:56 PM","9/9/2024 5:08:56 PM","9/9/2024 1:08:56 PM","9/9/2024 5:08:56 PM","9/9/2024 1:08:56 PM","9/9/2024 5:08:56 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script4.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowershellBasic1_script4.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script4.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowershellBasic1_script4","System.Collections.Generic.List`1[System.String]",,"PowershellBasic1_script4.ps1","196","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script4.ps1",".ps1","9/9/2024 2:07:35 PM","9/9/2024 6:07:35 PM","9/9/2024 2:07:36 PM","9/9/2024 6:07:36 PM","9/9/2024 2:07:36 PM","9/9/2024 6:07:36 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowerShellBasic1_script5.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowerShellBasic1_script5.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowerShellBasic1_script5.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowerShellBasic1_script5","System.Collections.Generic.List`1[System.String]",,"PowerShellBasic1_script5.ps1","184","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowerShellBasic1_script5.ps1",".ps1","9/9/2024 2:16:06 PM","9/9/2024 6:16:06 PM","9/9/2024 2:16:25 PM","9/9/2024 6:16:25 PM","9/9/2024 2:16:25 PM","9/9/2024 6:16:25 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script6.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowershellBasic1_script6.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script6.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowershellBasic1_script6","System.Collections.Generic.List`1[System.String]",,"PowershellBasic1_script6.ps1","227","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script6.ps1",".ps1","9/9/2024 2:52:19 PM","9/9/2024 6:52:19 PM","9/9/2024 2:52:19 PM","9/9/2024 6:52:19 PM","9/9/2024 2:52:19 PM","9/9/2024 6:52:19 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script7.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowershellBasic1_script7.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script7.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowershellBasic1_script7","System.Collections.Generic.List`1[System.String]",,"PowershellBasic1_script7.ps1","183","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script7.ps1",".ps1","9/9/2024 3:20:02 PM","9/9/2024 7:20:02 PM","9/9/2024 3:56:34 PM","9/9/2024 7:56:34 PM","9/9/2024 3:56:34 PM","9/9/2024 7:56:34 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script8.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","PowershellBasic1_script8.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script8.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowershellBasic1_script8","System.Collections.Generic.List`1[System.String]",,"PowershellBasic1_script8.ps1","204","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1","False","True","C:\Users\champuser\CSI-230-02_Repo\PowerShellBasic1\PowershellBasic1_script8.ps1",".ps1","9/9/2024 4:11:00 PM","9/9/2024 8:11:00 PM","9/9/2024 4:12:34 PM","9/9/2024 8:12:34 PM","9/9/2024 4:12:34 PM","9/9/2024 8:12:34 PM","Archive"
