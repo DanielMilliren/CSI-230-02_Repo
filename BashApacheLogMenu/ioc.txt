@@ -1,0 +1,9 @@
+\.\./
+/bin/bash
+/bin/sh
+cmd=
+/etc/passwd
+\.sh
+\.bash
+nano 
+sudo 
