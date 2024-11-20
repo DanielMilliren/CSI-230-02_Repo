@@ -1,0 +1,534 @@
+NumberCourse TitleCreditSeatsDaysTimesInstructorDatesPrerequisite(s)Location
+ACC 135-51Accounting for Decision Making33T5:30PM-8:15PMKelli-Jo Cloutier 8/26 - 12/13NoneCCM 233
+ACC 135-52Accounting for Decision Making33TH5:30PM-8:15PMJoseph Paquin 8/26 - 12/13NoneGBTC 217
+ACC 230-01Intermediate Accounting I39T11:30AM-2:15PMCathy Duffy 8/26 - 12/13ACC-135WICK 101
+ACC 325-01Federal Taxation38W9AM-11:45AMCathy Duffy 8/26 - 12/13Complete ACC-135.GBTC 112
+ACC 345-51Cost Accounting37M5:30PM-8:15PMJohn Padgett 8/26 - 12/13Complete ACC-135WICK 101
+ACC 400-51Advanced Accounting317W5:30PM-8:15PMJoseph Paquin 8/26 - 12/13ACC-231GBTC 112
+ANM 100-01Animation History31MTH8:30AM-9:45AMFelipe Lega 8/26 - 12/13NoneCCM 233
+ANM 200-012D Animation3-1M11:30AM-2:15PMFelipe Lega 8/26 - 12/13GAA 175 Introduction... moreCCM 001
+ANM 200-022D Animation310F8:30AM-11:15AMFelipe Lega 8/26 - 12/13GAA 175 Introduction... moreCCM 001
+ANM 255-01Rigging for 3D Animation34F11:30AM-2:15PMFelipe Lega 8/26 - 12/13GAA 135 or GAA 175, ... moreCCM 001
+ART 110-01Drawing, Introductory30F10AM-12:45PMSage Tucker-Ketcham 8/26 - 12/13NoneSKFA 100
+ART 110-02Drawing, Introductory34TH2:30PM-5:15PMSage Tucker-Ketcham 8/26 - 12/13NoneSKFA 100
+ART 110-51Drawing, Introductory30T5:30PM-8:15PMMallory Breiner 8/26 - 12/13NoneSKFA 100
+ART 111-51The Digital Image36TTHTTH6PM-7PM,7PM-8:15PMAndrew Frost 8/26 - 12/13NoneCCM 426
+ART 220-01Cultural Immersion/Fine Arts3-4TF8:30AM-9:45AMRobin Perlah 8/26 - 12/13NoneGBTC 114
+ART 312-01Printmaking Studio3-1T4PM-8PMKatie Loesel 8/26 - 12/13ART-110 or ART-135  ... moreCCM 434
+ART 380-01Adv Art History:Postmodernism35M1PM-3:45PMRichard Doubleday 8/26 - 12/13TAKE ART-120.CCM 426
+ART 380-02Adv. Art History:Fashion&amp;Wear35W12:15PM-3PMStella Marrs 8/26 - 12/13TAKE ART-120.CCM 434
+ASU 100-01Introduction to Sustainability310MTH1PM-2:15PMValerie Esposito 8/26 - 12/13NoneJOYC 305
+ASU 290-01Campus Community30T2:30PM-5:15PMValerie Esposito 8/26 - 12/13Take 30 creditsJOYC 212
+BRD 110-01Video Storytelling35TF1PM-2:15PMKeith Oppenheim 8/26 - 12/13NoneGBTC 014
+BRD 130-01Audio Production3-3MTH10AM-11:15AMJohn Billingsley 8/26 - 12/13NoneGBTC 014
+BRD 230-01SLProduction of Social Media34TF10AM-11:15AMKeith Oppenheim 8/26 - 12/13Take BRD-110GBTC 014
+BRD 247-01Multi-Cam Prod313TH8:30AM-11:15AMBrian Mulhall 8/26 - 12/13Take BRD-110.CCM 101
+BRD 250-01Show Producing I311MTH2:30PM-3:45PMVan Dora Williams 8/26 - 12/13BRD 217 or permissio... moreGBTC 014
+BRD 330-51Advanced Audio &amp; Sound Design3-2T5:30PM-8:15PMJustin Croft 8/26 - 12/13BRD-130 and 60 compl... moreGBTC 014
+BRD 400-01Prg Dev &amp; Prod38W9AM-11:45AMKeith Oppenheim 8/26 - 12/13Complete 90 credits.GBTC 014
+BUS 110-01Biz &amp; Entrepreneurial Mindset34TF10AM-11:15AMWilliam Hancy 8/26 - 12/13NoneCCM 442
+BUS 110-02Biz &amp; Entrepreneurial Mindset310TF2:30PM-3:45PMParthiv Patel 8/26 - 12/13NoneGBTC 114
+BUS 110-03Biz &amp; Entrepreneurial Mindset312TF4PM-5:15PMParthiv Patel 8/26 - 12/13NoneGBTC 114
+BUS 110-04Biz &amp; Entrepreneurial Mindset30MTH2:30PM-3:45PMRobert Bloch 8/26 - 12/13NoneCCM 424
+BUS 120-01Marketing &amp; the Org. Mindset30MTH11:30AM-12:45PMBarrie Silver 8/26 - 12/13BUS-110 or permisiso... moreGBTC 114
+BUS 120-51Marketing &amp; the Org. Mindset35MW5:30PM-6:45PMMorgan Donohue 8/26 - 12/13BUS-110 or permisiso... moreCCM 233
+BUS 210-01Corporate Social Responsibil.34TF1PM-2:15PMParthiv Patel 8/26 - 12/13Take 30 credits.CCM 221
+BUS 210-02Corporate Social Responsibil.314TF2:30PM-3:45PMMarie Segares 8/26 - 12/13Take 30 credits.GBTC 112
+BUS 310-01Int'l Bus. &amp; Macroeconomics34TF11:30AM-12:45PMParthiv Patel 8/26 - 12/13Take 30 credits and ... moreCCM 221
+CCC 410-01College Capstone: SSB51W12:15PM-3PMParthiv Patel 8/26 - 12/13Must complete COR-31... moreGBTC 114
+CCC 410-02College Capstone: Graphic Des.57MF9AM-11AM,10AM-12:45PMRichard Doubleday 8/26 - 12/13Must complete COR-31... moreBARN 200
+CCC 410CRE-01Creative Media Capstone4-1TBAAlan LarsenMust complete COR-31... more
+CCC 410EGD-01      1College Capstone in Game Dev.511M2:30PM-5:15PMDana Steinhoff 8/26 - 12/13Must complete COR-31... moreCCM 222
+CCC 410EGD-02College Capstone in Game Dev.5-18M2:30PM-5:15PMJessie Gagnon 8/26 - 12/13Must complete COR-31... moreCCM 224
+CCC 410EGD-03College Capstone in Game Dev.5-17M2:30PM-5:15PMPeter Wehr 8/26 - 12/13Must complete COR-31... moreFOST 104
+CCC 410EGD-04College Capstone in Game Dev.5-18W12:15PM-3PMEric Winebrenner 8/26 - 12/13Must complete COR-31... moreCCM 222
+CCC 410EGD-05College Capstone in Game Dev.5-16TH2:30PM-5:15PMDana Steinhoff 8/26 - 12/13Must complete COR-31... moreCCM 222
+CCC 410EGD-06College Capstone in Game Dev.5-18TH2:30PM-5:15PMRachel Hooper 8/26 - 12/13Must complete COR-31... moreCCM 224
+CCC 410EGD-07College Capstone in Game Dev.5-15W12:15PM-3PMJennifer Vincent 8/26 - 12/13Must complete COR-31... moreCCM 224
+CCC 410ITS-01Capstone Design27MTH8:55AM-9:45AMWei Kian Chen 8/26 - 12/13Must complete COR-31... moreJOYC 211
+CCC 410ITS-02Capstone Design237MTH8:55AM-9:45AMFurkan Paligu 8/26 - 12/13Must complete COR-31... moreCCM 221
+CCC 410ITS-03Capstone Design27MTH8:55AM-9:45AMMariam Khader 9/02 - 12/13Must complete COR-31... moreGBTC 117
+CCC 410SOI-01College Capstone SoSI37MTH11:30AM-12:45PMValerie Esposito 8/26 - 12/13Must complete COR-31... moreFREE 201
+CCC 412-01ITS Capstone Senior Project312MTH8:30AM-9:45AMJames Hoag 8/26 - 12/13Complete CCC-410ITS ... moreJOYC 201
+CCC 412DDL-71DDL Capstone III518T5:30PM-8:15PMMichael Kelly 8/26 - 12/13Complete CCC-410ITS ... moreJOYC 212
+CCM 491-81Comm &amp; Media Internship118TBASarah Moore 8/26 - 12/13CCM Division student... more
+CCM 492-81Comm &amp; Media Internship218TBASarah Moore 8/26 - 12/13CCM Division student... more
+CCM 493-81Comm &amp; Media Internship36TBASarah Moore 8/26 - 12/13CCM Division student... more
+CCM 494-81Comm &amp; Media Internship418TBASarah Moore 8/26 - 12/13CCM Division student... more
+CCM 495-81Comm &amp; Media Internship518TBASarah Moore 8/26 - 12/13CCM Division student... more
+CCM 496-81Comm &amp; Media Internship617TBASarah Moore 8/26 - 12/13CCM Division student... more
+CMP 101-01Champ 10101MTH8:30AM-9:45AMKerry Shackett 8/26 - 11/01NoneCCM 442
+CMP 101-02Champ 10100MTH8:30AM-9:45AMNathaniel Orvis 8/26 - 11/01NoneCCM 444
+CMP 101-03Champ 10107MTH11:30AM-12:45PMMelanie Brown 8/26 - 11/01NoneJOYC 103
+CMP 101-04Champ 10100MTH11:30AM-12:45PMStaff 8/26 - 11/01NoneJOYC 304
+CMP 101-05Champ 10101MTH1PM-2:15PMChristine Koogle 8/26 - 11/01NoneJOYC 202
+CMP 101-07Champ 10100MTH2:30PM-3:45PMRyan Gillen 8/26 - 11/01NoneJOYC 313
+CMP 101-08Champ 10102MTH2:30PM-3:45PMLiza Geduldig 8/26 - 11/01NoneWICK 101
+CMP 101-09Champ 1010-1MTH4PM-5:15PMJohn James Anderson 8/26 - 11/01NoneWICK 101
+CMP 101-10Champ 10100MTH4PM-5:15PMStaff 8/26 - 11/01NoneJOYC 103
+CMP 101-11Champ 10101TF8:30AM-9:45AMDavid Boyle 8/26 - 11/01NoneWICK 101
+CMP 101-12Champ 10100TF8:30AM-9:45AMDanielle L'Esperance 8/26 - 11/01NoneJOYC 202
+CMP 101-13Champ 10100TF10AM-11:15AMAngelika Koukoulas 8/26 - 11/01NoneWICK 100
+CMP 101-14Champ 10100TF10AM-11:15AMConnor Holtkamp 8/26 - 11/01NoneJOYC 212
+CMP 101-15Champ 10100TF11:30AM-12:45PMChristine Koogle 8/26 - 11/01NoneJOYC 305
+CMP 101-16Champ 10104TF11:30AM-12:45PMJennifer Vincent 8/26 - 11/01NoneJOYC 313
+CMP 101-17Champ 10100TF1PM-2:15PMOlivia Vittitow 8/26 - 11/01NoneWICK 102
+CMP 101-18Champ 10100TF1PM-2:15PMKerry Shackett 8/26 - 11/01NoneJOYC 212
+CMP 101-19Champ 10102TF2:30PM-3:45PMSamuel McClernon 8/26 - 11/01NoneFOST 100
+CMP 101-20Champ 10105TF2:30PM-3:45PMLisa Mazzariello 8/26 - 11/01NoneWICK 102
+CMP 101-21Transfer Connections0-55W3:30PM-4:45PMElaine O'Reilly 8/26 - 10/30NoneCCM 221
+COM 110-01Public Speaking31MTH11:30AM-12:45PMKeith Oppenheim 8/26 - 12/13NoneCCM 444
+COM 120-01Media and Society32MTH1PM-2:15PMVan Dora Williams 8/26 - 12/13NoneCCM 424
+COM 210-01Principles of Public Relations37MTH10AM-11:15AMBarrie Silver 8/26 - 12/13Complete either COM-... moreCCM 424
+COM 311-51Writing for Public Relations34W5:30PM-8:15PMLindsay Bumps 8/26 - 12/13COM-210. BRD-216 or ... moreCCM 444
+COM 355-01Prof. Communication Practices18T4PM-4:50PMSarah Moore 8/26 - 12/13Minimum 60 credits a... moreCCM 424
+COM 400-01Public Relations Campaign Dev310MTH11:30AM-12:45PMSarah Jerger 8/26 - 12/13Complete COM-311CCM 424
+COM 410-01Crisis Communication39MTH4PM-5:15PMSandra Yusen 8/26 - 12/13Take COM-210 and hav... moreJOYC 302
+COM 475-81Communication Field Practicum35TBASarah Moore 8/26 - 12/13Complete COM-355 and... more
+COR 101-01Navigating Higher Education3-1TF2:30PM-3:45PMJonathan Banfill 8/26 - 12/13Take Cor-102 concurr... moreCCM 444
+COR 101-02Navigating Higher Education30TF4PM-5:15PMJonathan Banfill 8/26 - 12/13Take Cor-102 concurr... moreCCM 444
+COR 101-03Navigating Higher Education30TF8:30AM-9:45AMCharles Bashaw 8/26 - 12/13Take Cor-102 concurr... moreJOYC 313
+COR 101-04Navigating Higher Education30TF10AM-11:15AMCharles Bashaw 8/26 - 12/13Take Cor-102 concurr... moreJOYC 313
+COR 101-06Navigating Higher Education30MTH11:30AM-12:45PMStephen Wehmeyer 8/26 - 12/13Take Cor-102 concurr... moreWICK 102
+COR 101-07Navigating Higher Education30TF8:30AM-9:45AMStaff 8/26 - 12/13Take Cor-102 concurr... moreWICK 100
+COR 101-08Navigating Higher Education30TF11:30AM-12:45PMStaff 8/26 - 12/13Take Cor-102 concurr... moreWICK 100
+COR 101-09Navigating Higher Education33MTH10AM-11:15AMAlfonso Capone 8/26 - 12/13Take Cor-102 concurr... moreJOYC 313
+COR 101-10Navigating Higher Education31MTH11:30AM-12:45PMAlfonso Capone 8/26 - 12/13Take Cor-102 concurr... moreJOYC 313
+COR 101-11Navigating Higher Education30TF11:30AM-12:45PMErik Esckilsen 8/26 - 12/13Take Cor-102 concurr... moreJOYC 202
+COR 101-12Navigating Higher Education30MTH2:30PM-3:45PMAlfonso Capone 8/26 - 12/13Take Cor-102 concurr... moreGBTC 114
+COR 101-13Navigating Higher Education30TF1PM-2:15PMErik Kaarla 8/26 - 12/13Take Cor-102 concurr... moreJOYC 313
+COR 101-14Navigating Higher Education30TF2:30PM-3:45PMErik Kaarla 8/26 - 12/13Take Cor-102 concurr... moreJOYC 313
+COR 101-16Navigating Higher Education30MTH1PM-2:15PMStaff 8/26 - 12/13Take Cor-102 concurr... moreWICK 100
+COR 101-17Navigating Higher Education30W12:15PM-3PMWilliam Stratton 8/26 - 12/13Take Cor-102 concurr... moreJOYC 311
+COR 101-18Navigating Higher Education33W9AM-11:45AMFaith Yacubian 8/26 - 12/13Take Cor-102 concurr... moreJOYC 302
+COR 101-19Navigating Higher Education30MTH2:30PM-3:45PMStaff 8/26 - 12/13Take Cor-102 concurr... moreWICK 100
+COR 101-51Navigating Higher Education33W5:30PM-8:15PMWilliam Stratton 8/26 - 12/13Take Cor-102 concurr... moreJOYC 311
+COR 101-52Navigating Higher Education33W5:30PM-8:15PMAmanda Young 8/26 - 12/13Take Cor-102 concurr... moreJOYC 305
+COR 101-53Navigating Higher Education30TH5:30PM-8:15PMAmanda Young 8/26 - 12/13Take Cor-102 concurr... moreJOYC 304
+COR 102-01FYI: Reading &amp; Writing30MTH11:30AM-12:45PMKelly Bowen 8/26 - 12/13Take COR-101 concurr... moreJOYC 202
+COR 102-02FYI: Reading &amp; Writing30TF8:30AM-9:45AMStaff 8/26 - 12/13Take COR-101 concurr... moreWICK 102
+COR 102-03FYI: Reading &amp; Writing31MTH10AM-11:15AMErik Esckilsen 8/26 - 12/13Take COR-101 concurr... moreMIC 305/306
+COR 102-04FYI: Reading &amp; Writing30TF10AM-11:15AMErik Esckilsen 8/26 - 12/13Take COR-101 concurr... moreJOYC 311
+COR 102-05FYI: Reading &amp; Writing31MTH11:30AM-12:45PMMarianne Bhonslay 8/26 - 12/13Take COR-101 concurr... moreJOYC 212
+COR 102-06FYI: Reading &amp; Writing30MTH1PM-2:15PMFred Kosnitsky 8/26 - 12/13Take COR-101 concurr... moreJOYC 212
+COR 102-07FYI: Reading &amp; Writing36W9AM-11:45AMMiriam Horne 8/26 - 12/13Take COR-101 concurr... moreCCM 424
+COR 102-08FYI: Reading &amp; Writing33W12:15PM-3PMMiriam Horne 8/26 - 12/13Take COR-101 concurr... moreCCM 424
+COR 102-09FYI: Reading &amp; Writing33TF4PM-5:15PMErik Kaarla 8/26 - 12/13Take COR-101 concurr... moreJOYC 313
+COR 102-10FYI: Reading &amp; Writing33W9AM-11:45AMDavid Kite 8/26 - 12/13Take COR-101 concurr... moreJOYC 202
+COR 102-11FYI: Reading &amp; Writing30MTH4PM-5:15PMStaff 8/26 - 12/13Take COR-101 concurr... moreWICK 100
+COR 102-12FYI: Reading &amp; Writing36TF8:30AM-9:45AMFrank Robinson 8/26 - 12/13Take COR-101 concurr... moreGBTC 217
+COR 102-13FYI: Reading &amp; Writing33TF10AM-11:15AMFrank Robinson 8/26 - 12/13Take COR-101 concurr... moreGBTC 217
+COR 102-14FYI: Reading &amp; Writing33TF1PM-2:15PMDavid Rous 8/26 - 12/13Take COR-101 concurr... moreJOYC 311
+COR 102-16FYI: Reading &amp; Writing35MTH11:30AM-12:45PMKelly Thomas 8/26 - 12/13Take COR-101 concurr... moreJOYC 311
+COR 102-17FYI: Reading &amp; Writing31MTH1PM-2:15PMKelly Thomas 8/26 - 12/13Take COR-101 concurr... moreJOYC 311
+COR 102-19FYI: Reading &amp; Writing35TF4PM-5:15PMDavid Rous 8/26 - 12/13Take COR-101 concurr... moreJOYC 311
+COR 102-20FYI: Reading &amp; Writing30MTH2:30PM-3:45PMStaff 8/26 - 12/13Take COR-101 concurr... moreJOYC 302
+COR 102-21FYI: Reading &amp; Writing30MTH4PM-5:15PMStaff 8/26 - 12/13Take COR-101 concurr... moreWICK 102
+COR 102-51FYI: Reading &amp; Writing36MW5:30PM-6:45PMZachary LaMalfa 8/26 - 12/13Take COR-101 concurr... moreJOYC 212
+COR 103-01Navigating Information30TF11:30AM-12:45PMZachary LaMalfa 8/26 - 12/13Take COR-104 concurr... moreJOYC 212
+COR 103-02Navigating Information30TF2:30PM-3:45PMDavid Rous 8/26 - 12/13Take COR-104 concurr... moreJOYC 311
+COR 104-01FYI: Making &amp; Doing33TF4PM-5:15PMFiadhnait Moser-Hardy 8/26 - 12/13Take Cor-103 concurr... moreJOYC 304
+COR 104-51FYI: ____ (instructor Topic)32T5:30PM-8:15PMFiadhnait Moser-Hardy 8/26 - 12/13Take Cor-103 concurr... moreJOYC 304
+COR 201-01Science Meaning Making30MTH8:30AM-9:45AMCharles Bashaw 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 201-02Science Meaning Making30MTH10AM-11:15AMCharles Bashaw 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 201-03Science Meaning Making31M11:30AM-2:15PMCynthia Brandenburg 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 201-04Science Meaning Making30W12:15PM-3PMKristian Brevik 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 201-05Science Meaning Making3-1F2:30PM-5:15PMKristian Brevik 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 201-06Science Meaning Making3-1TF10AM-11:15AMClinton Bryant 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 201-07Science Meaning Making30TF11:30AM-12:45PMClinton Bryant 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 201-08Science Meaning Making30TF2:30PM-3:45PMClinton Bryant 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 201-09Science Meaning Making3-1MTH1PM-2:15PMAriel Burgess 8/26 - 12/13Take COR-101, COR-10... moreCCM 444
+COR 201-10Science Meaning Making3-1MTH2:30PM-3:45PMAriel Burgess 8/26 - 12/13Take COR-101, COR-10... moreCCM 444
+COR 201-11Science Meaning Making3-1MTH4PM-5:15PMAriel Burgess 8/26 - 12/13Take COR-101, COR-10... moreCCM 444
+COR 201-12Science Meaning Making30TF10AM-11:15AMAlfonso Capone 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 201-13Science Meaning Making30TF11:30AM-12:45PMAlfonso Capone 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 201-14Science Meaning Making30MTH10AM-11:15AMDavid Kite 8/26 - 12/13Take COR-101, COR-10... moreWICK 101
+COR 201-15Science Meaning Making3-1MTH11:30AM-12:45PMDavid Kite 8/26 - 12/13Take COR-101, COR-10... moreWICK 101
+COR 201-16Science Meaning Making30MTH2:30PM-3:45PMDavid Kite 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 201-17Science Meaning Making30W9AM-11:45AMFred Kosnitsky 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 201-19Science Meaning Making3-1M1PM-3:45PMChristine Massey 8/26 - 12/13Take COR-101, COR-10... moreJOYC 205
+COR 201-21Science Meaning Making30TF8:30AM-9:45AMKristin Wolf 8/26 - 12/13Take COR-101, COR-10... moreGBTC 112
+COR 201-22Science Meaning Making3-1TF10AM-11:15AMKristin Wolf 8/26 - 12/13Take COR-101, COR-10... moreGBTC 114
+COR 201-23Science Meaning Making30TF11:30AM-12:45PMKristin Wolf 8/26 - 12/13Take COR-101, COR-10... moreGBTC 114
+COR 201-51Science Meaning Making30W5:30PM-8:15PMVelpula Paul 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 202-01Interdisciplinary Perspectives3-1TF1PM-2:15PMEdward Cafferty 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 202-02Interdisciplinary Perspectives30TF4PM-5:15PMEdward Cafferty 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 202-03Interdisciplinary Perspectives30MTH8:30AM-9:45AMVeruska Cantelli 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 202-04Interdisciplinary Perspectives30MTH10AM-11:15AMVeruska Cantelli 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 202-05Interdisciplinary Perspectives3-1MTH1PM-2:15PMWeiling Deng 8/26 - 12/13Take COR-101, COR-10... moreJOYC 301
+COR 202-06Interdisciplinary Perspectives30MTH2:30PM-3:45PMWeiling Deng 8/26 - 12/13Take COR-101, COR-10... moreJOYC 301
+COR 202-07Interdisciplinary Perspectives3-1W9AM-11:45AMAmy Howe 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 202-08Interdisciplinary Perspectives3-1W12:15PM-3PMAmy Howe 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 202-10Interdisciplinary Perspectives30T2:30PM-5:15PMIsabella Jeso 8/26 - 12/13Take COR-101, COR-10... moreMIC 305/306
+COR 202-11Interdisciplinary Perspectives31TH4PM-6:45PMIsabella Jeso 8/26 - 12/13Take COR-101, COR-10... moreMIC 305/306
+COR 202-12Interdisciplinary Perspectives36T10AM-12:45PMIsabella Jeso 8/26 - 12/13Take COR-101, COR-10... moreMIC 305/306
+COR 202-13Interdisciplinary Perspectives30F1PM-3:45PMFiadhnait Moser-Hardy 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 202-14Interdisciplinary Perspectives3-1W9AM-11:45AMFlavio Rizzo 8/26 - 12/13Take COR-101, COR-10... moreJOYC 313
+COR 202-15Interdisciplinary Perspectives30W12:15PM-3PMFlavio Rizzo 8/26 - 12/13Take COR-101, COR-10... moreJOYC 313
+COR 202-16Interdisciplinary Perspectives30MTH8:30AM-9:45AMGary Scudder 8/26 - 12/13Take COR-101, COR-10... moreGBTC 114
+COR 202-17Interdisciplinary Perspectives3-1MTH10AM-11:15AMGary Scudder 8/26 - 12/13Take COR-101, COR-10... moreGBTC 114
+COR 202-18Interdisciplinary Perspectives3-1M10AM-12:45PMErik Shonstrom 8/26 - 12/13Take COR-101, COR-10... moreGBTC 217
+COR 202-19Interdisciplinary Perspectives30W12:15PM-3PMErik Shonstrom 8/26 - 12/13Take COR-101, COR-10... moreCCM 442
+COR 202-20Interdisciplinary Perspectives30TF10AM-11:15AMKelly Thomas 8/26 - 12/13Take COR-101, COR-10... moreGBTC 112
+COR 202-21Interdisciplinary Perspectives30TF11:30AM-12:45PMKelly Thomas 8/26 - 12/13Take COR-101, COR-10... moreGBTC 112
+COR 202-23Interdisciplinary Perspectives31MTH2:30PM-3:45PMCiaran Buckley 8/26 - 12/13Take COR-101, COR-10... moreJOYC 311
+COR 202-24Interdisciplinary Perspectives30TF2:30PM-3:45PMAmanda Young 8/26 - 12/13Take COR-101, COR-10... moreCCM 442
+COR 285-01Integrative Thinking Seminar3-4W9AM-11:45AMWilliam Stratton 8/26 - 12/13Transfer status with... moreJOYC 301
+COR 285-02Integrative Thinking Seminar3-2TF8:30AM-9:45AMMichael Lange 8/26 - 12/13Transfer status with... moreJOYC 305
+COR 301-01Place &amp; Identity30MTH8:30AM-9:45AMCiaran Buckley 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 301-02Place &amp; Identity30MTH10AM-11:15AMCiaran Buckley 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 301-03Place &amp; Identity3-1MTH4PM-5:15PMCiaran Buckley 8/26 - 12/13Take COR-101, COR-10... moreJOYC 311
+COR 301-04Place &amp; Identity34W9AM-11:45AMVeruska Cantelli 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 301-05Place &amp; Identity3-1W12:15PM-3PMVeruska Cantelli 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 301-06Place &amp; Identity30M4PM-6:45PMAmy Howe 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 301-07Place &amp; Identity30TH4PM-6:45PMAmy Howe 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 301-08Place &amp; Identity3-1TF4PM-5:15PMZachary LaMalfa 8/26 - 12/13Take COR-101, COR-10... moreJOYC 205
+COR 301-09Place &amp; Identity31MTH8:30AM-9:45AMMichael Lange 8/26 - 12/13Take COR-101, COR-10... moreJOYC 203
+COR 301-11Place &amp; Identity3-1TF10AM-11:15AMMichael Lange 8/26 - 12/13Take COR-101, COR-10... moreJOYC 305
+COR 301-12Place &amp; Identity3-2W9AM-11:45AMRobert Mayer 8/26 - 12/13Take COR-101, COR-10... moreJOYC 203
+COR 301-13Place &amp; Identity31MTH8:30AM-9:45AMFlavio Rizzo 8/26 - 12/13Take COR-101, COR-10... moreJOYC 311
+COR 301-14Place &amp; Identity30MTH10AM-11:15AMFlavio Rizzo 8/26 - 12/13Take COR-101, COR-10... moreJOYC 311
+COR 301-15Place &amp; Identity32M4PM-6:45PMGary Scudder 8/26 - 12/13Take COR-101, COR-10... moreGBTC 112
+COR 301-16Place &amp; Identity31TH4PM-6:45PMGary Scudder 8/26 - 12/13Take COR-101, COR-10... moreGBTC 112
+COR 301-17Place &amp; Identity30MTH1PM-2:15PMStaff 8/26 - 12/13Take COR-101, COR-10... moreJOYC 302
+COR 301-202Intro to Irish Life &amp; Culture3-1W12:30PM-3:15PMSeamus White 8/26 - 12/13Take COR-101, COR-10... more
+COR 301-51Place &amp; Identity30MW5:30PM-6:45PMRobert Mayer 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 301-52Place &amp; Identity30TTH5:30PM-6:45PMInes De Haro 8/26 - 12/13Take COR-101, COR-10... moreJOYC 205
+COR 302-01Field Methods3-2W12:15PM-3PMJonathan Banfill 8/26 - 12/13Take COR-101, COR-10... moreJOYC 203
+COR 302-02Field Methods3-3TH11:30AM-2:15PMJonathan Banfill 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 302-03Field Methods30M1PM-3:45PMMarianne Bhonslay 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 302-04Field Methods3-1W12:15PM-3PMMarianne Bhonslay 8/26 - 12/13Take COR-101, COR-10... moreJOYC 205
+COR 302-06Field Methods3-3T11:30AM-2:15PMWeiling Deng 8/26 - 12/13Take COR-101, COR-10... moreCCM 442
+COR 302-07Field Methods3-1T4PM-6:45PMWeiling Deng 8/26 - 12/13Take COR-101, COR-10... moreCCM 442
+COR 302-08Field Methods31T11:30AM-2:15PMErik Shonstrom 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 302-09Field Methods3-2TH11:30AM-2:15PMErik Shonstrom 8/26 - 12/13Take COR-101, COR-10... moreFOST 100
+COR 302-10Field Methods3-1F1PM-3:45PMStephen Wehmeyer 8/26 - 12/13Take COR-101, COR-10... moreJOYC 301
+COR 302-11Field Methods3-2M2:30PM-5:15PMStephen Wehmeyer 8/26 - 12/13Take COR-101, COR-10... moreJOYC 304
+COR 302-12Field Methods3-3T1PM-3:45PMStephen Wehmeyer 8/26 - 12/13Take COR-101, COR-10... moreJOYC 301
+COR 302-13Field Methods3-2TH2:30PM-5:15PMStephen Wehmeyer 8/26 - 12/13Take COR-101, COR-10... moreJOYC 102
+COR 302-14Field Methods3-1W9AM-11:45AMKristin Wolf 8/26 - 12/13Take COR-101, COR-10... moreJOYC 205
+COR 302-15Field Methods3-1MTH10AM-11:15AMKatheryn Wright 8/26 - 12/13Take COR-101, COR-10... moreJOYC 301
+COR 302-16Field Methods3-2MTH11:30AM-12:45PMKatheryn Wright 8/26 - 12/13Take COR-101, COR-10... moreJOYC 301
+COR 302-17Field Methods30TF1PM-2:15PMStaff 8/26 - 12/13Take COR-101, COR-10... moreWICK 100
+COR 302-202Writing the City: Dublin38T6:15PM-9PMNicole Rourke 8/26 - 12/13Take COR-101, COR-10... more
+COR 302-203Northern Ireland36T3PM-6PMLiz Gillis 8/26 - 12/13Take COR-101, COR-10... more
+COR 302-52Field Methods30W5:30PM-8:15PMErik Shonstrom 8/26 - 12/13Take COR-101, COR-10... moreJOYC 205
+CRE 125-01Integrated Studio Foundations3-8M10AM-12:45PMMicah Wood 8/26 - 12/13NoneCCM 434
+CRE 125L-01Integrated Found. - Studio04W10AM-12PMMicah Wood 9/02 - 12/13NoneCCM 434
+CRE 125L-02Integrated Found. - Studio04W9AM-11AMMicah Wood 9/02 - 12/13NoneCCM 434
+CRE 225-01Art and Social Engagement33MTH1PM-3:45PM,1PM-3PMAlan Larsen 8/26 - 12/13Complete 27 credits;... moreCCM 434
+CRE 225-02Art and Social Engagement3-1TF10AM-12:45PM,10AM-12PMAlan Larsen 8/26 - 12/13Complete 27 credits;... moreCCM 434
+CRE 310-01Art and Global Perspectives3-5MTH11:30AM-12:45PMErik Esckilsen 8/26 - 12/13Creative Media major... moreMIC 305/306
+CRE 350-01Creative Media Portfolio 234TF1PM-3:45PM,1PM-3PMKenneth Howell 8/26 - 12/13Complete CRE-250, CR... moreCCM 434
+CRE 400-01Creative Media Prof Pract II30W9AM-11:45AMWylie Garcia 8/26 - 12/13Complete CRE-300, CR... moreCCM 233
+CRJ 115-51Criminal Legal Systems33TH5:30PM-8:15PMKelton Olney 8/26 - 12/13NoneCCM 233
+CRJ 120-51Criminal Law38T5:30PM-8:15PMSarah George 8/26 - 12/13NoneCCM 221
+CRJ 225-01Digital Evidence: Law of3-1TF11:30AM-12:45PMEdward Miller 8/26 - 12/13Complete CRJ-120 OR ... moreGBTC 217
+CRJ 250-01Introduction to Criminology34W12:15PM-3PMStephen Miller 8/26 - 12/13NoneJOYC 302
+CRJ 310-01Investigative Interviewing314TF2:30PM-3:45PMEdward Miller 8/26 - 12/13CRJ-230 or permissio... moreJOYC 302
+CRJ 490-81Criminal Justice Field Exp618TBAStephen Miller 8/26 - 12/13Must complete 90 cre... more
+CSI 120-51Intro to Mobile &amp; Web Dev30M5:30PM-8:15PMChristopher Bendel 8/26 - 12/13NoneJOYC 210
+CSI 140-01Introduction to Programming30MTH10AM-11:15AMBrian Hall 8/26 - 12/13NoneJOYC 211
+CSI 140-03Introduction to Programming30MTH10AM-11:15AMMurat Gungor 8/26 - 12/13NoneMIC 308
+CSI 140-04Introduction to Programming3-1MTH11:30AM-12:45PMMurat Gungor 8/26 - 12/13NoneMIC 308
+CSI 140-05Introduction to Programming30MTH1PM-2:15PMDean Lawson 8/26 - 12/13NoneJOYC 211
+CSI 140-06Introduction to Programming3-1MTH2:30PM-3:45PMDean Lawson 8/26 - 12/13NoneJOYC 211
+CSI 140-08Introduction to Programming30TF1PM-2:15PMWei Kian Chen 8/26 - 12/13NoneJOYC 211
+CSI 160-01Python Programming31TF10AM-11:15AMVikas Thammanna Gowda 8/26 - 12/13NoneJOYC 210
+CSI 160-02Python Programming31TF11:30AM-12:45PMVikas Thammanna Gowda 8/26 - 12/13NoneJOYC 210
+CSI 230-01Linux/Unix Programming3-1M10AM-12:45PMFurkan Paligu 8/26 - 12/13Complete CSI-140 wit... moreJOYC 310
+CSI 230-02Linux/Unix Programming3-2W12:15PM-3PMJoseph Letourneau 8/26 - 12/13Complete CSI-140 wit... moreFREE 105
+CSI 230-03Linux/Unix Programming3-1TH1PM-3:45PMLakysha Patnode 8/26 - 12/13Complete CSI-140 wit... moreJOYC 310
+CSI 240-01Advanced Programming30MTH4PM-5:15PMDean Lawson 8/26 - 12/13Complete CSI-140 wit... moreMIC 308
+CSI 240-51Advanced Programming310MW5:30PM-6:45PMScott Barrett 8/26 - 12/13Complete CSI-140 wit... moreMIC 308
+CSI 260-51Advanced Python310TTH5:30PM-6:45PMVikas Thammanna Gowda 8/26 - 12/13Complete CSI-160JOYC 211
+CSI 270-51Data Structures With Python314MW5:30PM-6:45PMMariam Khader 8/26 - 12/13Complete CSI-260JOYC 211
+CSI 281-01Data Structures &amp; Algorithms35TF2:30PM-3:45PMAlexandre Tolstenko Nogueira 8/26 - 12/13CSI-240 with minimum... moreJOYC 201
+CSI 281-02Data Structures &amp; Algorithms36MTH4PM-5:15PMDavid Kopec 8/26 - 12/13CSI-240 with minimum... moreJOYC 201
+CSI 281-04Data Structures &amp; Algorithms30MTH2:30PM-3:45PMDavid Kopec 8/26 - 12/13CSI-240 with minimum... moreJOYC 201
+CSI 320-202Global IT &amp; Ethics3-20W9AM-11:45AMRenaat Verbruggen 8/26 - 12/1360 completed credits... more
+CSI 320-51Global IT &amp; Ethics3-2MW5:30PM-6:45PMDean Lawson 8/26 - 12/1360 completed credits... moreJOYC 301
+CSI 340-01Software Design Patterns3-2W9AM-11:45AMMurat Gungor 8/26 - 12/13Complete CSI-270 or ... moreMIC 308
+CSI 370-01Computer Architecture312TF10AM-11:15AMBrian Hall 8/26 - 12/13Complete CSI-270 or ... moreJOYC 201
+CSI 370-02Computer Architecture33TF11:30AM-12:45PMBrian Hall 8/26 - 12/13Complete CSI-270 or ... moreJOYC 201
+CSI 400-01Human-Computer Interaction312TF4PM-5:15PMDavid Kopec 8/26 - 12/13Complete 60 credits ... moreJOYC 203
+CSI 480-01Innovation IV: Topics in AI3-2TF2:30PM-3:45PMDavid Kopec 8/26 - 12/13Complete CSI-270 OR ... moreJOYC 210
+DAT 310-01Advanced Data Analytics313MTH10AM-11:15AMVikas Thammanna Gowda 8/26 - 12/13Complete DAT-210 and... moreJOYC 201
+DAT 330-01Data Mining37MTH11:30AM-12:45PMVikas Thammanna Gowda 8/26 - 12/13Complete DAT-210JOYC 211
+DDL 186-01Integrative Competency Portfol310TF11:30AM-12:45PMCraig Pepin 8/26 - 12/13NoneCCM 444
+DDL 250-01Competencies Review112F10AM-11:15AMCraig Pepin 8/26 - 12/13NoneGBTC 206
+DDL 251-01Competencies Review II11F10AM-11:15AMCraig Pepin 8/26 - 12/13NoneGBTC 206
+DDL 325-01Interrogating Professionalism314TH8:30AM-11:15AMMichael Kelly 8/26 - 12/13Take DDL-186 and DDL... moreJOYC 202
+DDL 350-51Degree Design Lab Practicum318W5:30PM-8:15PMMichael Kelly 8/26 - 12/13Take DDL-186.JOYC 202
+DDL 350-52Degree Design Lab Practicum319TH5:30PM-8:15PMMichael Kelly 8/26 - 12/13Take DDL-186.JOYC 202
+DDL 401-71Competency: Analysis117M8:30AM-9:45AMCraig Pepin 9/30 - 11/01NoneGBTC 201
+DDL 402-71Competency: Collaboration119T8:30AM-9:45AMCraig Pepin 8/26 - 9/27NoneGBTC 201
+DDL 402-72Competency: Collaboration119T10AM-11:15AMCraig Pepin 11/04 - 12/13NoneGBTC 201
+DDL 403-71Competency: Communication120T8:30AM-9:45AMCraig Pepin 8/26 - 9/27NoneGBTC 201
+DDL 403-72Competency: Communication118T10AM-11:15AMCraig Pepin 11/04 - 12/13NoneGBTC 201
+DDL 404-71Competency: Creativity117T10AM-11:15AMCraig Pepin 9/30 - 11/01NoneGBTC 201
+DDL 405-71Competency: Diversity&amp;inclusn118M8:30AM-9:45AMCraig Pepin 8/26 - 9/27NoneGBTC 201
+DDL 405-72Competency: Diversity&amp;inclusn120T8:30AM-9:45AMCraig Pepin 11/04 - 12/13NoneGBTC 201
+DDL 406-71Competency: Global&amp;cultrl117M8:30AM-9:45AMCraig Pepin 8/26 - 9/27NoneGBTC 201
+DDL 406-72Competency: Global&amp;cultrl120T8:30AM-9:45AMCraig Pepin 11/04 - 12/13NoneGBTC 201
+DDL 407-71Competency: Info Literacy117T10AM-11:15AMCraig Pepin 8/26 - 9/27NoneGBTC 201
+DDL 407-72Competency: Info Literacy118M8:30AM-9:45AMCraig Pepin 11/04 - 12/13NoneGBTC 201
+DDL 408-71Competency: Inquiry119T10AM-11:15AMCraig Pepin 8/26 - 9/27NoneGBTC 201
+DDL 408-72Competency: Inquiry119M8:30AM-9:45AMCraig Pepin 11/04 - 12/13NoneGBTC 201
+DDL 409-71Competency: Integration118T10AM-11:15AMCraig Pepin 9/30 - 11/01NoneGBTC 201
+DDL 410-71Competency: Quant Literacy119T8:30AM-9:45AMCraig Pepin 9/30 - 11/01NoneGBTC 201
+DDL 411-71Competency: Sci Literacy118T8:30AM-9:45AMCraig Pepin 9/30 - 11/01NoneGBTC 201
+DDL 412-71Competency: Tech Literacy118M8:30AM-9:45AMCraig Pepin 9/30 - 11/01NoneGBTC 201
+ECN 255-01Managerial Economics30TF1PM-2:15PMJennifer Vincent 8/26 - 12/13Take 30 creditsGBTC 217
+ECN 255-02Managerial Economics39TF2:30PM-3:45PMJennifer Vincent 8/26 - 12/13Take 30 creditsGBTC 217
+EDU 110-01Found. of Learning &amp; Teaching36W9AM-11:45AMJohn Stroup 8/26 - 12/13NoneFREE 201
+EDU 230-01Content Literacy39T1PM-3:45PMMeg Jones 8/26 - 12/13Take EDU-110FREE 201
+EDU 250-01Preschool Curriculum311W12:15PM-3PMMeg Jones 8/26 - 12/13Complete EDU-110FREE 201
+EDU 251-01Preschool Field Experience211MTHTBAMeg Jones 8/26 - 12/13Complete EDU-110
+EDU 310-01Elementary Language Arts35T1PM-3:45PMMeg Jones 8/26 - 12/13EDU-250, EDU-251, ED... moreFREE 201
+EDU 311-01Elementary Science Methods321F11:30AM-2:30PMJohn Stroup 8/26 - 12/13EDU-250,EDU-251, EDU... moreFREE 201
+EDU 312-01Elementary Math Methods321F2:30PM-5:15PMJohn Stroup 8/26 - 12/13TAKE EDU-250, EDU-25... moreFREE 201
+EDU 320-01Managing the Learning Env.319M1PM-3:45PMMeg Jones 8/26 - 12/13Complete EDU-250, ED... moreFREE 201
+EDU 332-01Middle Secondary Teach Method314F8:30AM-11:15AMJohn Stroup 8/26 - 12/13Complete EDU-110FREE 201
+EDU 335-01Curric. Design &amp; Diff Instruc.220T8:30AM-9:45AMJohn Stroup 8/26 - 12/13EDU-245FREE 201
+EDU 425-01Reflective Practices in Educ.118T10AM-11:15AMJohn Stroup 8/26 - 12/13Education major seni... moreFREE 201
+EGD 102-01Game History30MTH10AM-11:15AMRobert Mayer 8/26 - 12/13Game Design, Game Ar... moreCCM 222
+EGD 102-02Game History30TF10AM-11:15AMPeter Wehr 8/26 - 12/13Game Design, Game Ar... moreCCM 222
+EGD 102-03Game History30MTH11:30AM-12:45PMCraig Pepin 8/26 - 12/13Game Design, Game Ar... moreCCM 222
+EGD 102-04Game History30TF11:30AM-12:45PMJonathan Ferguson 8/26 - 12/13Game Design, Game Ar... moreCCM 222
+EGD 102-05Game History32TF1PM-2:15PMPeter Wehr 8/26 - 12/13Game Design, Game Ar... moreCCM 222
+EGD 102-53Game History31TTH5:30PM-6:45PMPaul Webster-Pact 8/26 - 12/13Game Design, Game Ar... moreCCM 222
+EGD 220-01Game Studio I39W9AM-11:45AMRachel Hooper 8/26 - 12/13All - GDES, GMRT, GP... moreCCM 222
+EHS 100-01SLMaking Connections110TH2:30PM-3:45PMSarah Jerger 9/30 - 12/13NoneJOYC 304
+EHS 100-02SLMaking Connections11M4PM-5:15PMSarah Jerger 9/30 - 12/13NoneJOYC 301
+EHS 490-81EHS Internship Experience38TBAStephen Miller 8/26 - 12/13Students must comple... more
+ENG 215-01Reading and Writing Fiction34MTH1PM-2:15PMJames Ellefson 8/26 - 12/13NoneCCM 442
+ENG 325-01Young Adult Literature37W12:15PM-3PMTanya Stone 8/26 - 12/13Complete 60 credits ... moreCCM 444
+ENP 410-01Ecological Economics314MTH2:30PM-3:45PMValerie Esposito 8/26 - 12/13Complete 60 CreditsJOYC 305
+ENP 450-51Environmental Decision Making38TH5:30PM-8:15PMSeth Olson 8/26 - 12/13ENP-200.JOYC 302
+FIN 240-51Financial Management I310MW7PM-8:15PMHurley Cavacas 8/26 - 12/13Take ACC-135FOST 100
+FIN 400-51Advanced Investment Topics316TTH5:30PM-6:45PMFrank Codey 8/26 - 12/13Complete FIN-300FOST 100
+FLM 100-51Film Studies: Screenings121W5:30PM-8:15PMMira Niagolova 8/26 - 12/13NoneCCM 305
+FLM 110-01Filmmaking, Intro to3-1THT5:30PM-6:45PM,2:30PM-5:15PMChristian Acosta 8/26 - 12/13NoneFOST 101
+FLM 110-02Filmmaking, Intro to3-1WTH9AM-11:45AM,4PM-5:15PMChristopher Dreisbach 8/26 - 12/13NoneCCM 101
+FLM 110-03Filmmaking, Intro to3-1THTH11:30AM-2:15PM,7PM-8:15PMJohn Rasmussen 8/26 - 12/13NoneCCM 101
+FLM 128-01Screenwriting I30W12:15PM-3PMChristopher Dreisbach 8/26 - 12/13NoneFOST 101
+FLM 210-51Film History3-1M5:30PM-8:15PMMatthew Parillo 8/26 - 12/13Must complete 12 cre... moreCCM 305
+FLM 230-01Audio &amp; Video Editing39THF8:30AM-9:45AM,8:30AM-11:15AMDillon Toole 8/26 - 12/13Complete FLM-110 or ... moreFOST 101
+FLM 230-02Audio &amp; Video Editing30THF10AM-11:15AM,1PM-3:45PMRyan Boera 8/26 - 12/13Complete FLM-110 or ... moreFOST 101
+FLM 260-01Documentary Filmmaking30W12:15PM-3PMMira Niagolova 8/26 - 12/13Complete FLM-110 or ... moreGBTC 206
+FLM 285-01Direct. &amp; Act. for the Screen3-2T2:30PM-5:15PMPaul Schnabel 8/26 - 12/13Take FLM-128 or CREM... moreCCM 305
+FLM 301-01Topics in Cinema39TH11:30AM-2:15PMScott Tuft 8/26 - 12/13This course is only ... moreCCM 305
+FLM 315-01Filmmaking II3-10M11:30AM-2:15PMJohn Rasmussen 8/26 - 12/13FLM-215GBTC 014
+FLM 320-01The Business of Film36T11:30AM-2:15PMMira Niagolova 8/26 - 12/13Must complete 36 cre... moreFOST 101
+FLM 328-01Screenwriting II30T8:30AM-11:15AMChristopher Dreisbach 8/26 - 12/13FLM-128FOST 101
+FLM 383-01Experimental Moving Image34TH8:30AM-11:15AMJohn Rasmussen 8/26 - 12/13Take FLM-110CCM 305
+FLM 415-01Filmmaking III33M8:30AM-11:15AMMira Niagolova 8/26 - 12/13DFM-315FOST 101
+FLM 430-01Color Grading30TH2:30PM-5:15PMRyan Dunleavy 8/26 - 12/13Take FLM-330 previou... moreFOST 101
+FOR 100-01Intro to Cybercrime &amp; DF32MTH11:30AM-12:45PMJoseph Letourneau 8/26 - 12/13NoneGBTC 117
+FOR 120-01Intro. to DF Analysis38TF1PM-2:15PMAmy Keigwin 8/26 - 12/13Complete FOR-100 wit... moreGBTC 117
+FOR 210-01OS Fundamentals38MTH10AM-11:15AMMariam Khader 8/26 - 12/13FOR-120 with C or be... moreGBTC 117
+FOR 310-01Mobile Device Forensics33MTH1PM-2:15PMMariam Khader 8/26 - 12/13FOR-120 with C or be... moreGBTC 117
+FOR 330-01Operating System Forensics II3-3TF8:30AM-9:45AMMariam Khader 8/26 - 12/13FOR-230 with C or be... moreGBTC 117
+FOR 440-01Net. Forensics&amp;Threat Hunting3-1MTH2:30PM-3:45PMAli Hadi 8/26 - 12/13Complete FOR-350 or ... moreGBTC 117
+FOR 450-01Advanced Malware Analysis36MTH4PM-5:15PMAli Hadi 8/26 - 12/13FOR-350 with C or be... moreGBTC 117
+GAA 105-01Intro to 2D Digital Art32M2:30PM-5:15PMChristopher Mendenhall 8/26 - 12/13Game Art, Animation ... moreCCM 001
+GAA 105-02Intro to 2D Digital Art32T2:30PM-5:15PMTeppi Zuppo 8/26 - 12/13Game Art, Animation ... moreCCM 001
+GAA 105-03Intro to 2D Digital Art30F2:30PM-5:15PMStaff 8/26 - 12/13Game Art, Animation ... moreCCM 001
+GAA 125-01Drawing for Realism I31M11:30AM-2:15PMLogan Pike 8/26 - 12/13Game Art, Animation ... moreSKFA 100
+GAA 125-02Drawing for Realism I30T11:30AM-2:15PMBenjamin Jelter 8/26 - 12/13Game Art, Animation ... moreSKFA 100
+GAA 125-03Drawing for Realism I30W9AM-11:45AMTeppi Zuppo 8/26 - 12/13Game Art, Animation ... moreSKFA 100
+GAA 125-04Drawing for Realism I30TH11:30AM-2:15PMStaff 8/26 - 12/13Game Art, Animation ... moreSKFA 100
+GAA 135-01Intro 3D Modeling &amp; Texturing35M11:30AM-2:15PMJoshua Stutts 8/26 - 12/13Game Art, Animation,... moreCCM 232
+GAA 135-02Intro 3D Modeling &amp; Texturing30F11:30AM-2:15PMChristopher Mendenhall 8/26 - 12/13Game Art, Animation,... moreCCM 232
+GAA 175-01Intro to Animation30TH2:30PM-5:15PMFelipe Lega 8/26 - 12/13Game Art, Animation,... moreCCM 001
+GAA 205-012D Game Art33T11:30AM-2:15PMJoshua Stutts 8/26 - 12/13Complete GAA 105 and... moreCCM 001
+GAA 205-022D Game Art37W12:15PM-3PMJoshua Stutts 8/26 - 12/13Complete GAA 105 and... moreCCM 001
+GAA 205-032D Game Art32TH11:30AM-2:15PMJoshua Stutts 8/26 - 12/13Complete GAA 105 and... moreCCM 001
+GAA 225-01Drawing for Realism II33T8:30AM-11:15AMNathan Walpole 8/26 - 12/13Complete GAA 125 and... moreCCM 001
+GAA 225-02Drawing for Realism II34W9AM-11:45AMNathan Walpole 8/26 - 12/13Complete GAA 125 and... moreCCM 001
+GAA 225-03Drawing for Realism II34TH8:30AM-11:15AMNathan Walpole 8/26 - 12/13Complete GAA 125 and... moreCCM 001
+GAA 235-013D Modeling33T8:30AM-11:15AMJoshua Buck 8/26 - 12/13Take GAA-135, grade ... moreCCM 232
+GAA 235-023D Modeling32W9AM-11:45AMJoshua Buck 8/26 - 12/13Take GAA-135, grade ... moreCCM 232
+GAA 235-033D Modeling310TH8:30AM-11:15AMJoshua Buck 8/26 - 12/13Take GAA-135, grade ... moreCCM 232
+GAA 350-01Procedural Material Dev.30M8:30AM-11:15AMJo Ann Patel 8/26 - 12/13Complete GAA-235CCM 232
+GAA 350-02Procedural Material Dev.33W12:15PM-3PMJo Ann Patel 8/26 - 12/13Complete GAA-235CCM 232
+GAA 355-01Game Environments3-3T11:30AM-2:15PMJo Ann Patel 8/26 - 12/13GAA-235 with a minim... moreCCM 232
+GAA 375-013D Animation II310M8:30AM-11:15AMNathan Walpole 8/26 - 12/13Complete GAA-275 wit... moreCCM 001
+GAA 380-01Adv Seminar: Art &amp; Animation3-2TH11:30AM-2:15PMJoshua Buck 8/26 - 12/1360 credits completed... moreCCM 232
+GAA 380-02Adv Seminar: Art &amp; Animation3-2F8:30AM-11:15AMChristopher Mendenhall 8/26 - 12/1360 credits completed... moreCCM 232
+GBP 100-02Intro. to the Game Industry316MTH11:30AM-12:45PMPeter Wehr 8/26 - 12/13GMBP Major or Permis... moreCCM 442
+GBP 200-01The Game Business Lifecycle38MTH10AM-11:15AMDana Steinhoff 8/26 - 12/13NoneCCM 442
+GDV 100-02Form and Color3-1WW9AM-11:45AM,12:45PM-2:45PMAleksandra Wiecierzewska 8/26 - 12/13Visual Communication... moreBARN 200
+GDV 110-01Image Technology35TH11:30AM-2:15PMKenneth Howell 8/26 - 12/13NoneCCM 426
+GDV 110-02Image Technology310F1PM-3:45PMEmily Andrews 8/26 - 12/13NoneCCM 426
+GDV 200-01Design and Communication3-3THTH10AM-12:45PM,1:45PM-3:45PMAleksandra Wiecierzewska 8/26 - 12/13VCD-100BARN 200
+GDV 203-51Form in Motion31T5:30PM-8:15PMRichard Doubleday 8/26 - 12/13NoneBARN 200
+GDV 206-01Web Design I3-2TF10AM-12:45PM,10AM-12PMJamie Aponas 8/26 - 12/13VCD-100 or VCD-111CCM 426
+GDV 300-01Projects in Graphic Design I3-1F1PM-3:45PMSteven Crafts 8/26 - 12/13VCD-270BARN 200
+GDV 302-51Objects and Spaces34M5:30PM-8:15PMAleksandra Wiecierzewska 8/26 - 12/13VCD-201BARN 200
+GDV 305-01Advanced Publication Design3-3TH8:30AM-11:15AMMatthew Douglas 8/26 - 12/13Complete VCD-205CCM 426
+GMD 100-01Visual Comm. for Game Design37TF1PM-2:15PMAmanda Fox 8/26 - 12/13Game Design majors o... moreFOST 104
+GMD 110-01Introduction to Game Design30MTH11:30AM-12:45PMJonathan Ferguson 8/26 - 12/13Game Design, CREM or... moreCCM 224
+GMD 110-02Introduction to Game Design30MTH1PM-2:15PMJonathan Ferguson 8/26 - 12/13Game Design, CREM or... moreCCM 224
+GMD 110-03Introduction to Game Design30TF2:30PM-3:45PMGreg Bemis 8/26 - 12/13Game Design, CREM or... moreCCM 222
+GMD 110-04Introduction to Game Design30TF4PM-5:15PMGreg Bemis 8/26 - 12/13Game Design, CREM or... moreCCM 222
+GMD 120-01Creativity and Play38MTH10AM-11:15AMSamara Fantie 8/26 - 12/13Game Design and CREM... moreCCM 233
+GMD 200-01Game Technology I33T2:30PM-5:15PMJonathan Ferguson 8/26 - 12/13CSI-140 or CSI-160 a... moreFOST 104
+GMD 210-01Principles of Game Design35MTH8:30AM-9:45AMJohn Boyd 8/26 - 12/13Game Design or CREM ... moreCCM 224
+GMD 210-02Principles of Game Design31MTH10AM-11:15AMJohn Boyd 8/26 - 12/13Game Design or CREM ... moreCCM 224
+GMD 210-03Principles of Game Design33TF8:30AM-9:45AMAmanda Fox 8/26 - 12/13Game Design or CREM ... moreCCM 224
+GMD 210-04Principles of Game Design30TF10AM-11:15AMAmanda Fox 8/26 - 12/13Game Design or CREM ... moreCCM 224
+GMD 300-01Game Technology II3-17T11:30AM-2:15PMJoseph Manley 8/26 - 12/13Game Design majors o... moreCCM 224
+GMD 300-02Game Technology II3-20T2:30PM-5:15PMJoseph Manley 8/26 - 12/13Game Design majors o... moreCCM 224
+GMD 300-03Game Technology II3-15W9AM-11:45AMRobert Wakefield 8/26 - 12/13Game Design majors o... moreFOST 104
+GMD 300-04Game Technology II3-18W12:15PM-3PMRobert Wakefield 8/26 - 12/13Game Design majors o... moreFOST 104
+GMD 300-05Game Technology II3-18TH11:30AM-2:15PMJoseph Manley 8/26 - 12/13Game Design majors o... moreFOST 104
+GMD 300-52Game Technology II310TH5:30PM-8:15PMRobert Wakefield 8/26 - 12/13Game Design majors o... moreFOST 104
+GMD 310-01Applied Ludology30T10AM-12:45PMGreg Bemis 8/26 - 12/13Game Design or CREM ... moreFOST 104
+GMD 310-02Applied Ludology32TH2:30PM-5:15PMGreg Bemis 8/26 - 12/13Game Design or CREM ... moreFOST 104
+GMD 310-03Applied Ludology35TH8:30AM-11:15AMGreg Bemis 8/26 - 12/13Game Design or CREM ... moreFOST 104
+GMD 340-01Level Design II30W9AM-11:45AMJohn Boyd 8/26 - 12/13Game Design majors o... moreCCM 224
+GMD 380-01Advanced Seminar: Game Design30T2:30PM-5:15PMJohn Boyd 8/26 - 12/13Game Design majors o... moreCCM 233
+GMD 380-02Advanced Seminar: Game Design30TH2:30PM-5:15PMAmanda Fox 8/26 - 12/13Game Design majors o... moreCCM 233
+GMS 200-01Game Snd Des I30W12:15PM-3PMJohn Levee 8/26 - 12/13Take SON-120GBTC 012
+GMS 200-02Game Snd Des I32TH2:30PM-5:15PMJohn Levee 8/26 - 12/13Take SON-120GBTC 012
+GMS 410-01Sr Port: Game Sound38T2:30PM-5:15PMJohn Levee 8/26 - 12/1390 credits or permis... moreGBTC 012
+GPR 100-01Intro to Game Prog30MTH2:30PM-3:45PMEric Winebrenner 8/26 - 12/13Game Programming maj... moreJOYC 101
+GPR 100-02Intro to Game Prog31MTH4PM-5:15PMAlexandre Tolstenko Nogueira 8/26 - 12/13Game Programming maj... moreJOYC 101
+GPR 200-01Intro to Modern Graphics Prog3-5TF10AM-11:15AMEric Winebrenner 8/26 - 12/13Complete CSI-240 wit... moreJOYC 101
+GPR 200-02Intro to Modern Graphics Prog3-4TF11:30AM-12:45PMEric Winebrenner 8/26 - 12/13Complete CSI-240 wit... moreJOYC 101
+GPR 340-01AI for Games3-6MTH10AM-11:15AMAlexandre Tolstenko Nogueira 8/26 - 12/13Complete GPR-200, GP... moreJOYC 101
+GPR 340-02AI for Games3-5TF1PM-2:15PMAlexandre Tolstenko Nogueira 8/26 - 12/13Complete GPR-200, GP... moreJOYC 101
+GPR 350-01Game Physics3-6MTH11:30AM-12:45PMScott Barrett 8/26 - 12/13Complete GPR-200, GP... moreJOYC 101
+GPR 350-02Game Physics3-1MTH1PM-2:15PMScott Barrett 8/26 - 12/13Complete GPR-200, GP... moreJOYC 101
+GPR 460-01Game Engine Design &amp; Impl33TF4PM-5:15PMScott Barrett 8/26 - 12/13Complete GPR-200, mi... moreJOYC 101
+HIS 110-01American History I3-4TH4PM-6:45PMKorey Whitfield 8/26 - 12/13NoneCCM 424
+INN 110-01Intro. Interactive Narrative3-4W12:15PM-3PMKel Bachus 8/26 - 12/13NoneCCM 233
+INN 200-01Interactive Narrative I37M2:30PM-5:15PMKel Bachus 8/26 - 12/13COmplete INN-110.CCM 233
+INN 200-02Interactive Narrative I313T8:30AM-11:15AMTracy Seamster 8/26 - 12/13COmplete INN-110.CCM 233
+INN 300-01Interactive Narrative II3-2T11:30AM-2:15PMKel Bachus 8/26 - 12/13Complete INN-200.CCM 233
+INT 260-51International Marketing315T5:30PM-8:15PMWilliam Zuccareno 8/26 - 12/13Complete MKT-110 or ... moreGBTC 112
+INV 210-01Creativity &amp; Innov. in Bus.312MTH8:30AM-9:45AMLindsey Godwin 8/26 - 12/13Complete 30 credits.GBTC 217
+INV 310-01Strat Mgmt Innovation &amp; Tech319MTH11:30AM-12:45PMMarie Segares 8/26 - 12/1360 completed credits... moreJOYC 305
+ITS 192-71ITS Internship I2-22TBAZoltan Sachs 9/30 - 12/13None
+ITS 292-71ITS Internship II218TBAZoltan Sachs 9/30 - 12/13Complete 30 credits
+ITS 493-01ITS Internship IV313F10AM-12:45PMFurkan Paligu 8/26 - 12/13Complete 90 credits.JOYC 310
+IXD 100-01Interaction Design I3-3M10AM-12:45PMKenneth Howell 8/26 - 12/13VCD-111CCM 426
+IXD 200-01Aesthetic Interactions34W9AM-11:45AMKenneth Howell 8/26 - 12/13COMPLETE ONE OF THE ... moreCCM 426
+IXD 201-01Applied Interactions311M4PM-6:45PMRachel Hooper 8/26 - 12/13complete either IXD ... moreGBTC 014
+LAN 140-01Japanese I31MTH2:30PM-3:45PMSinyoung Evans 8/26 - 12/13NoneJOYC 202
+LAN 240-01Japanese II39MTH4PM-5:15PMSinyoung Evans 8/26 - 12/13LAN-140 or permissio... moreJOYC 202
+LEG 110-51Introduction to Law36TH5:30PM-8:15PMKelton Olney 8/26 - 12/13NoneCCM 233
+LEG 120-51Business Law33TH5:30PM-8:15PMJeffrey Messina 8/26 - 12/13NoneCCM 444
+LEG 140-51Criminal Law36T5:30PM-8:15PMSarah George 8/26 - 12/13NoneCCM 221
+LEG 170-51Torts320M5:30PM-8:15PMAlexandra Sturges 8/26 - 12/13NoneGBTC 206
+LEG 210-01Civil Procedure I311MTH1PM-2:15PMStephen Miller 8/26 - 12/13NoneGBTC 112
+LEG 370-51Evidence39M5:30PM-8:15PMSally Adams 8/26 - 12/1360 COMPLETED CREDITSJOYC 304
+LEG 390-81Law Externship319TBAStephen Miller 8/26 - 12/1360 completed credits... more
+LEG 480-51Law in Context Seminar310W5:30PM-8:15PMEliza Novick-Smith 8/26 - 12/1390 credits completed... moreJOYC 302
+MGT 150-01Exploring Analytics312W9AM-11:15AMJennifer Vincent 8/26 - 12/13Complete 15 creditsGBTC 114
+MGT 260-01Project Mgmt &amp; Team Leadership32M1PM-3:45PMLindsey Godwin 8/26 - 12/13Must complete 30 cre... moreWICK 102
+MGT 265-51Information Systems for Mgmt314T5:30PM-8:15PMKenneth Heskett 8/26 - 12/13Complete 30 credits ... moreGBTC 114
+MGT 330-71HRM I:Talent/Plng/Acquisition318T10AM-11:15AMMarie Segares 8/26 - 12/13NoneWICK 102
+MGT 425-01Problem Analysis/Decision Mkg.313TH5:30PM-8:15PMSwapna Bhargavi Gantasala 8/26 - 12/13Must complete 75 cre... moreWICK 102
+MGT 460-01Business Policy/Strategic Mgt317W9AM-11:45AMParthiv Patel 8/26 - 12/13Complete 90 credits.... moreGBTC 206
+MKT 110-01Introduction to Marketing31MTH11:30AM-12:45PMBarrie Silver 8/26 - 12/13NoneGBTC 114
+MKT 110-51Introduction to Marketing30MW5:30PM-6:45PMMorgan Donohue 8/26 - 12/13NoneCCM 233
+MKT 210-01Consumer Behavior311MTH1PM-2:15PMRobert Bloch 8/26 - 12/13Complete BUS-120 or ... moreWICK 101
+MKT 250-51Intro. to Digital Marketing314MW5:30PM-6:45PMThomas Funk 8/26 - 12/13Complete MKT-110.GBTC 114
+MKT 255-51Marketing Research312TH5:30PM-8:15PMEverett Ackerman 8/26 - 12/13Complete MTH-180.  C... moreGBTC 114
+MKT 270-01Integrated Marketing Comm.36MTH2:30PM-3:45PMBarrie Silver 8/26 - 12/13Complete either BUS-... moreGBTC 112
+MTH 115-01Math for ProbSolv/DecMaking3-2MTH11:30AM-12:45PMBrandon Tries 8/26 - 12/13NoneJOYC 205
+MTH 115-02Math for ProbSolv/DecMaking3-1MTH4PM-5:15PMLindsay Day 8/26 - 12/13NoneJOYC 203
+MTH 115-51Math for ProbSolv/DecMaking30MW5:30PM-6:45PMTegan Garon 8/26 - 12/13NoneJOYC 203
+MTH 125-01Precalculus3-11TF2:30PM-3:45PMMelanie Brown 8/26 - 12/13NoneJOYC 205
+MTH 180-01Statistics, Introduction to31MTH10AM-11:15AMErin Milne 8/26 - 12/13NoneJOYC 205
+MTH 180-02Statistics, Introduction to31MTH11:30AM-12:45PMMichael Opperman 8/26 - 12/13NoneJOYC 203
+MTH 180-03Statistics, Introduction to30MTH2:30PM-3:45PMBrandon Tries 8/26 - 12/13NoneJOYC 203
+MTH 180-05Statistics, Introduction to30TF10AM-11:15AMMichael Opperman 8/26 - 12/13NoneJOYC 203
+MTH 180-06Statistics, Introduction to31TF11:30AM-12:45PMMichael Opperman 8/26 - 12/13NoneJOYC 203
+MTH 230-03Calculus I33TF11:30AM-12:45PMMelanie Brown 8/26 - 12/13Complete MTH-125 or ... moreJOYC 205
+MTH 230-04Calculus I33TF1PM-2:15PMMelanie Brown 8/26 - 12/13Complete MTH-125 or ... moreJOYC 205
+MTH 270-02Discrete Mathematics33TF10AM-11:15AMWarren Sides 8/26 - 12/13Complete MTH-125 wit... moreJOYC 205
+MTH 270-03Discrete Mathematics30TF1PM-2:15PMWarren Sides 8/26 - 12/13Complete MTH-125 wit... moreJOYC 203
+MTH 270-04Discrete Mathematics37TF2:30PM-3:45PMWarren Sides 8/26 - 12/13Complete MTH-125 wit... moreJOYC 203
+MTH 340-01Vector Calculus3-1MTH1PM-2:15PMWarren Sides 8/26 - 12/13Complete MTH-240JOYC 203
+MTH 350-01Numerical Methods32MTH10AM-11:15AMMichael Opperman 8/26 - 12/13Complete MTH-240 or ... moreJOYC 203
+NET 150-01Network Fundamentals31TF2:30PM-3:45PMAmy Keigwin 8/26 - 12/13NoneGBTC 017
+NET 215-01Network Protocols3-1MTH11:30AM-12:45PMAdam Goldstein 8/26 - 12/13Complete NET-150 wit... moreGBTC 017
+NET 215-02Network Protocols30TF10AM-11:15AMSyed Ali 8/26 - 12/13Complete NET-150 wit... moreGBTC 017
+NET 215-03Network Protocols33TF1PM-2:15PMLakysha Patnode 8/26 - 12/13Complete NET-150 wit... moreGBTC 017
+NET 330-01Network Design3-2M1PM-3:45PMAdam Goldstein 8/26 - 12/13Complete SYS-265 wit... moreGBTC 017
+PSY 100-01Psychology, Introduction to32MTH10AM-11:15AMGary Baker 8/26 - 12/13NoneGBTC 112
+PSY 115-01CollegeCornerstone:Psychology31W9AM-11:45AMBarbara Colombo 8/26 - 12/13NoneJOYC 212
+PSY 185-01Mindcraft: Psych of Wellbeing30MTH2:30PM-3:45PMElaine O'Reilly 8/26 - 12/13Open to Non-Psycholo... moreJOYC 212
+PSY 201-01Research Methods &amp; Analysis I30MTH8:30AM-9:45AMGary Baker 8/26 - 12/1324 completed credits... moreGBTC 112
+PSY 201-02Research Methods &amp; Analysis I31TF8:30AM-9:45AMGary Baker 8/26 - 12/1324 completed credits... moreJOYC 302
+PSY 205-01Abnormal Psychology3-3T4PM-6:45PMMelissa McDuffie 8/26 - 12/13PSY-100JOYC 301
+PSY 240-01Social Psychology3-5TF10AM-11:15AMGary Baker 8/26 - 12/13PSY-100 or COR-1XXCCM 424
+PSY 405-01Music for Health and Wellbeing34MTH10AM-11:15AMBarbara Colombo 8/26 - 12/13Take one 300-level P... moreJOYC 212
+PSY 430-01Healthy Aging310MTH1PM-2:15PMBarbara Colombo 8/26 - 12/13PSY-370JOYC 304
+SCI 140-01Nutrition &amp; Fitness/Biology of40MTHW8:30AM-9:45AM,9AM-11AMSarah Beno 8/26 - 12/13NoneJOYC 103
+SCI 140-02Nutrition &amp; Fitness/Biology of41MTHW10AM-11:15AM,12PM-2PMSarah Beno 8/26 - 12/13NoneJOYC 103
+SCI 140-51Nutrition &amp; Fitness/Biology of40MT5:30PM-7:30PM,5:30PM-8:15PMJessica Fischer 8/26 - 12/13NoneFREE 102
+SCI 150-01Environmental Earth Sciences40TFT10AM-11:15AM,12PM-2PMJennifer Supple 8/26 - 12/13NoneJOYC 103
+SCI 150-51Environmental Earth Sciences41TW5:30PM-8:15PM,5:30PM-7:30PMJohn Brawley 8/26 - 12/13NoneFREE 102
+SCI 155D-202Global Environmental Earth Sci410MM3PM-5PM,10:30AM-1:15PMStaff 8/26 - 12/13None
+SCI 170-02Forensic Science, Intro to41TFT1PM-2:15PM,2:30PM-4:30PMGeoffrey Giampa 8/26 - 12/13NoneJOYC 103
+SCI 170-51Forensic Science, Intro to40MT5:30PM-8:15PM,5:30PM-7:30PMVelpula Paul 8/26 - 12/13NoneFREE 102
+SCI 210-01Foundations of Ecology48TFTH11:30AM-12:45PM,12PM-2PMTeage O'Connor 8/26 - 12/13SCI-150JOYC 103
+SCI 250-51Physics I41WTH5:30PM-8:15PM,5:30PM-7:30PMDaniel Rohrbach 8/26 - 12/13MTH-125 or MTH-230FREE 102
+SEC 110-01Cybersecurity Fundamentals3-3MTH10AM-11:15AMSyed Ali 8/26 - 12/13NoneFREE 105
+SEC 110-02Cybersecurity Fundamentals3-2MTH11:30AM-12:45PMSyed Ali 8/26 - 12/13NoneFREE 105
+SEC 110-03Cybersecurity Fundamentals30MTH4PM-5:15PMSyed Ali 8/26 - 12/13NoneFREE 105
+SEC 110-71Cybersecurity Fundamentals3-10WW6PM-7:15PM,12:30PM-1:45PMAdam Goldstein 8/26 - 12/13None
+SEC 250-01Computer &amp; Network Security35W9AM-11:45AMSyed Ali 8/26 - 12/13Complete SEC-110 or ... moreJOYC 310
+SEC 260-01Web and Applications Security30MTH4PM-5:15PMJoe Eastman 8/26 - 12/13Complete NET-150 and... moreJOYC 310
+SEC 300-71Topics in Security111T4PM-5:15PMFurkan Paligu 9/30 - 11/01 Complete SEC-250, N... moreFREE 105
+SEC 300-72Topics in Security110T4PM-5:15PMFurkan Paligu 11/04 - 12/13 Complete SEC-250, N... moreFREE 105
+SEC 345-215Information Assurance3-12TH10AM-11:15AMLakysha Patnode 8/26 - 12/13Complete SEC-250 wit... more
+SEC 440-01Systems Security33T1PM-3:45PMAli Hadi 8/26 - 12/13Complete SYS-265, NE... moreFREE 105
+SON 101-01Sound Studio Production30F2:30PM-5:15PMJustin Croft 8/26 - 12/13Must have approval f... moreGBTC 012
+SON 101-51Sound Studio Production3-2TH5:30PM-8:15PMJustin Croft 8/26 - 12/13Must have approval f... moreGBTC 012
+SON 120-02Fundamentals of Digital Music31TF11:30AM-12:45PMEric Sample 8/26 - 12/13NoneGBTC 012
+SON 120-03Fundamentals of Digital Music31TF1PM-2:15PMEric Sample 8/26 - 12/13NoneGBTC 012
+SON 165-51Business of Music, the32M5:30PM-8:15PMDev Jana 8/26 - 12/13NoneGBTC 012
+SON 282-01Synthesis and Sound Design3-1M11:30AM-2:15PMEric Sample 8/26 - 12/13NoneGBTC 012
+SON 340-01Film Scoring30TH11:30AM-2:15PMEric Sample 8/26 - 12/13Complete SON-120 or ... moreGBTC 012
+SON 350-01Sound Design/Interact.&amp; Games33M2:30PM-5:15PMMaxwell Johnson 8/26 - 12/13Complete SON-120GBTC 012
+SWK 100-01Social Work, Introduction to312MTH4PM-5:15PMApril Mentzer 8/26 - 12/13NoneGBTC 217
+SWK 210-01Communityhealth/Harm Reduc33TF11:30AM-12:45PMLiza Ryan 8/26 - 12/13NoneJOYC 302
+SWK 220-01Human Life Span Development33TF10AM-11:15AMApril Mentzer 8/26 - 12/13Must have completed ... moreCCM 221
+SWK 280-01Research Methods Social Work316MTH11:30AM-12:45PMAnnemarie Conlon 8/26 - 12/13Take 24 credits.GBTC 112
+SWK 305-01SJ: Oppression &amp; Empowerment33MTH2:30PM-3:45PMAbsa Samba 8/26 - 12/13Complete 45 credits ... moreGBTC 217
+SWK 310-01Generalist Practice I315MTH1PM-2:15PMApril Mentzer 8/26 - 12/13Complete 48 credits.GBTC 217
+SWK 450-01Social Work Practice, Adv.310M10AM-12:45PMTarn Foerg 8/26 - 12/13Complete SWK-310.JOYC 302
+SWK 490-01Social Wk Field Experience I43TBATarn Foerg 8/26 - 12/13Complete SWK-300, SW... more
+SWK 490S-01Int. Social Wk Field Seminar I13M8:30AM-9:45AMTarn Foerg 8/26 - 12/13Complete SWK-300, SW... moreJOYC 302
+SYS 140-01Systems Fundamentals30MTH1PM-2:15PMJoseph Letourneau 8/26 - 12/13NoneFREE 105
+SYS 140-02Systems Fundamentals37MTH2:30PM-3:45PMEric Shore 8/26 - 12/13NoneFREE 105
+SYS 140-03Systems Fundamentals32TF10AM-11:15AMJoseph Letourneau 8/26 - 12/13NoneFREE 105
+SYS 255-01Sysadmin &amp; Net Services I31M1PM-3:45PMJoe Eastman 8/26 - 12/13Complete NET-150 and... moreJOYC 310
+SYS 255-02Sysadmin &amp; Net Services I32T1PM-3:45PMJoe Eastman 8/26 - 12/13Complete NET-150 and... moreJOYC 310
+SYS 255-03Sysadmin &amp; Net Services I33W12:15PM-3PMJoe Eastman 8/26 - 12/13Complete NET-150 and... moreJOYC 310
+SYS 320-01Automation and Scripting31M10AM-12:45PMFurkan Paligu 8/26 - 12/13Complete SYS-255 wit... moreJOYC 310
+SYS 320-02Automation and Scripting35W12:15PM-3PMJoseph Letourneau 8/26 - 12/13Complete SYS-255 wit... moreFREE 105
+SYS 320-03Automation and Scripting32TH1PM-3:45PMLakysha Patnode 8/26 - 12/13Complete SYS-255 wit... moreJOYC 310
+SYS 350-01Enterprise Virtualization32W9AM-11:45AMRyan Gillen 8/26 - 12/13Complete SYS-265FREE 105
+WRT 100-01Intro Writing &amp; Publishing33MTH10AM-11:15AMTanya Stone 8/26 - 12/13Course is open to Wr... moreCCM 444
+WRT 110-01Pub Hub13F10AM-11:15AMRebecca Holt 9/30 - 12/13NoneCCM 444
+WRT 120-01Creative Writing, Introduction30MTH8:30AM-9:45AMSheila Liming 8/26 - 12/13NoneGBTC 206
+WRT 120-02Creative Writing, Introduction32MTH10AM-11:15AMSheila Liming 8/26 - 12/13NoneGBTC 206
+WRT 201-01Professional Practices I13T11:30AM-12:20PMRebecca Holt 8/26 - 12/13Complete 15 credits.GBTC 206
+WRT 215-01Magazine Publishing3-2W12:15PM-3PMSheila Liming 8/26 - 12/13NoneCCM 426
+WRT 220-51Creative Writing, Intermediate31M5:30PM-8:15PMJames Ellefson 8/26 - 12/13WRT-120CCM 442
+WRT 221-01Intermediate Poetry Workshop35MTH2:30PM-3:45PMJames Ellefson 8/26 - 12/13NoneCCM 442
+WRT 231-01Writing for the Workplace31TF8:30AM-9:45AMRebecca Holt 8/26 - 12/13NoneCCM 444
+WRT 237-01Interm. Creative Non-Fiction32TF1PM-2:15PMSheila Liming 8/26 - 12/13NoneJOYC 202
+WRT 280-01Reading &amp; Writing/Wilderness35TH4PM-6:45PMJames Ellefson 8/26 - 12/13NoneCCM 442
+WRT 301-01Professional Practices II10T4PM-4:50PMSarah Moore 8/26 - 12/13WRT-201CCM 424
+WRT 345-01Professional Copy Editing32TF2:30PM-3:45PMRebecca Holt 8/26 - 12/13WRT 250 or PD permis... moreGBTC 206
+WRT 346-01Publishing in 21st Century31M4PM-6:45PMTanya Stone 8/26 - 12/13Look for 45 complete... moreCCM 424
+WRT 350-01Reading and Writing in Genre37TH4PM-6:45PMRachel Carter 8/26 - 12/13WRT-120 AND either W... moreGBTC 206
+WRT 401-01Professional Practices III1-2TH11:30AM-12:20PMRebecca Holt 8/26 - 12/13WRT-201GBTC 206
